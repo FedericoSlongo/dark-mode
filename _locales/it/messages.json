@@ -1,6 +1,6 @@
 {
     "about": {
-        "message": "About"
+        "message": "Su"
     },
     "absolute": {
         "message": "Assoluto"
@@ -54,7 +54,7 @@
         "message": "Contrasto"
     },
     "cores": {
-        "message": "Cores"
+        "message": "Core"
     },
     "dateAndTime": {
         "message": "Data e tempo"
